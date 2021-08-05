@@ -8,11 +8,13 @@
 
 ## Important Links
 
-  -[other Repo] (www.link.com)
+  -[API REPO](https://github.com/CaldoNic7/card-pt)
 
-  -[Deployed API] (www.link.com)
+  -[Client Repo](https://github.com/CaldoNic7/card-pt-client)
 
-  -[Deployed Client] (www.link.com)
+  -[Deployed API](www.link.com)
+
+  -[Deployed Client](www.link.com)
 
 ## Technologies Used
   
