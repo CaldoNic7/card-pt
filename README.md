@@ -18,13 +18,13 @@
 
 ## Technologies Used
   
-  jQuery
-  HTML/CSS
-  Bootstrap
-  Javascript
-  Express
-  Mongoose
-  Mongodb
++ React
++ HTML/CSS
++ Bootstrap
++ Javascript
++ Express
++ Mongoose
++ Mongodb
 
 ## Planning
   
